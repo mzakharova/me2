@@ -172,6 +172,7 @@
   color: #dddddd;
   font-weight: 400;
   background: #333333;
+   display:block;
 }
 #cssmenu ul ul li:last-child > a,
 #cssmenu ul ul li.last-item > a {
