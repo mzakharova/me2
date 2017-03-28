@@ -165,7 +165,7 @@
   margin-right: 100%;
 }
 #cssmenu ul ul li a {
-  border-bottom: 1px solid rgba(150, 150, 150, 0.15);
+  border-bottom: 1px solid rgba(300, 150, 150, 0.15);
   overflow:hidden;
   position: relative;
   padding: 150px 15px;
